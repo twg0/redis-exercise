@@ -108,4 +108,14 @@ class RedisExerciseApplicationTests {
 		System.out.println("entries = " + entries.get("Hello2"));
 		System.out.println("size = " + size);
 	}
+
+	@Test
+	public void testExpire() {
+	    // given
+
+	    // when
+
+	    // then
+
+	}
 }
